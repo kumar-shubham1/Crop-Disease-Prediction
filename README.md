@@ -1,4 +1,4 @@
-# AI-Driven Crop Disease Prediction and Management System
+## AI-Driven Crop Disease Prediction and Management System
 
 ## Overview
 
@@ -54,7 +54,7 @@ The project focuses on building a **mobile and web-based application** that uses
 ### Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Soumya-Chakraborty/SIH2024.git
+   git clone https://github.com/kumar-shubham1/Crop-Disease-Prediction
    cd SIH2024
    ```
 
@@ -122,5 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For further information or queries, please reach out to us at:  
 **Team name :** - CodeStrom
 **Team Member :** - Shubham , Avni, Riddhi
+---
 **Email:** [shubhamvermaa045@gmail.com](mailto:shubhamvermaa045@gmail.com)
-s
