@@ -55,7 +55,7 @@ The project focuses on building a **mobile and web-based application** that uses
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/kumar-shubham1/Crop-Disease-Prediction
-   cd SIH2024
+   cd Crop-Disease-Prediction
    ```
 
 2. **Install frontend dependencies:**
@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For further information or queries, please reach out to us at:  
+
 **Team name :** - CodeStrom
 **Team Member :** - Shubham , Avni, Riddhi
----
 **Email:** [shubhamvermaa045@gmail.com](mailto:shubhamvermaa045@gmail.com)
